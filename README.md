@@ -2,4 +2,4 @@
 
 ### purpose
 
-the purpose of this repository is to learn how to use git/github
+the purpose of this repository is to learn
